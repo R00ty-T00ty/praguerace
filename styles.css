@@ -26,14 +26,14 @@ a {
   width: 1120px;
   min-height: 1800px;
   margin: 0 auto;
-  background: url("/images/bg.jpg") no-repeat;
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bg.jpg") no-repeat;
 }
 #logo {
   width: 704px;
   height: 164px;
   display: block;
   margin: 0 auto;
-  background: url("/images/logo.jpg");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/logo.jpg");
 }
 #menu {
   width: 702px;
@@ -48,23 +48,23 @@ a {
 }
 #about {
   width: 151px;
-  background: url("/images/about.jpg");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/about.jpg");
 }
 #cast {
   width: 116px;
-  background: url("/images/cast.jpg");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/cast.jpg");
 }
 #store {
   width: 135px;
-  background: url("/images/store.jpg");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/store.jpg");
 }
 #tipjar {
   width: 146px;
-  background: url("/images/tipjar.jpg");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/tipjar.jpg");
 }
 #archive {
   width: 154px;
-  background: url("/images/archive.jpg");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/archive.jpg");
 }
 #cc-comicbody {
   text-align: center;
@@ -87,35 +87,35 @@ a {
 }
 #topnav .cc-first {
   width: 76px;
-  background: url("/images/topfirst.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/topfirst.png");
 }
 #topnav .cc-prev {
   width: 64px;
-  background: url("/images/topprev.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/topprev.png");
 }
 #topnav .cc-next {
   width: 66px;
-  background: url("/images/topnext.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/topnext.png");
 }
 #topnav .cc-last {
   width: 76px;
-  background: url("/images/toplast.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/toplast.png");
 }
 #topnav .cc-first-dis {
   width: 76px;
-  background: url("/images/topfirst.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/topfirst.png");
 }
 #topnav .cc-prev-dis {
   width: 64px;
-  background: url("/images/topprev.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/topprev.png");
 }
 #topnav .cc-next-dis {
   width: 66px;
-  background: url("/images/topnext.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/topnext.png");
 }
 #topnav .cc-last-dis {
   width: 76px;
-  background: url("/images/toplast.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/toplast.png");
 }
 #comicarea {
   width: 800px;
@@ -134,45 +134,45 @@ a {
 }
 #bottomnav .cc-first {
   width: 84px;
-  background: url("/images/bottomfirst.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomfirst.png");
 }
 #bottomnav .cc-prev {
   width: 132px;
-  background: url("/images/bottomprev.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomprev.png");
 }
 #bottomnav .cc-navaux {
   width: 124px;
-  background: url("/images/bottommid.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottommid.png");
 }
 #bottomnav .cc-next {
   width: 136px;
-  background: url("/images/bottomnext.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomnext.png");
 }
 #bottomnav .cc-last {
   width: 78px;
-  background: url("/images/bottomlast.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomlast.png");
 }
 #bottomnav .cc-first-dis {
   width: 84px;
-  background: url("/images/bottomfirst.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomfirst.png");
 }
 #bottomnav .cc-prev-dis {
   width: 132px;
-  background: url("/images/bottomprev.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomprev.png");
 }
 #bottomnav .cc-next-dis {
   width: 136px;
-  background: url("/images/bottomnext.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomnext.png");
 }
 #bottomnav .cc-last-dis {
   width: 78px;
-  background: url("/images/bottomlast.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomlast.png");
 }
 .cc-newscontent,
 #disqus_thread,
 .cc-newsarea {
   min-height: 100px;
-  background: url("/images/bgrepeat.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bgrepeat.png");
   width: 524px;
   padding: 15px;
 }
@@ -193,7 +193,7 @@ a {
 #hiveworks {
   width: 160px !important;
   height: 346px;
-  background: url("/images/hiveworks.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/hiveworks.png");
   display: block;
 }
 #bottomdiv {
@@ -205,7 +205,7 @@ a {
   height: 37px;
   clear: both;
   width: 554px;
-  background: url("/images/bottomdiv.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/bottomdiv.png");
   margin-left: -15px;
 }
 .cc-commentheader {
@@ -215,7 +215,7 @@ a {
 #socialmedia {
   width: 160px;
   height: 222px;
-  background: url("/images/social.png");
+  background: url("https://r00ty-t00ty.github.io/praguerace/images/social.png");
 }
 #socialmedia a {
   width: 80px;
