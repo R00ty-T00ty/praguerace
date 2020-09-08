@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link href="/comiccontrol/defaultstyles.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link href="/.css" type="text/css" rel="stylesheet" />
+<script>
+  
+  
+  
+  
+
+  
+  
+
+</script>
+<link href="/styles.css" rel="stylesheet" type="text/css" />
+
+
+<title>Prague Race - WEIRD FEET</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+</head>
+<body>
+<div id="wrapper">
+	<a id="logo" href="/"></a>
+    <div id="menu"><a id="about" href="/about"></a><a id="store" href="/store"></a><a id="cast" href="/cast"></a><a href="/comic/archive" id="archive"></a><a id="tipjar" href="/tip-jar"></a></div><div id="topnav"><nav class="cc-nav" role="navigation"><a class="cc-first" rel="first" href="/comic/start"></a><a class="cc-prev" rel="prev" href="/comic/a-giant-moth"></a><a class="cc-navaux" href="/comic/rss"></a><a class="cc-next" rel="next" href="/comic/second-hand"></a><a class="cc-last" rel="last" href="/comic/304"></a></nav></div>
+<div id="comicarea"><div id="cc-comicbody"><a href="/comic/second-hand"><img title="WEIRD FEET" src="/comics/1418215956-239.jpg" id="cc-comic" /></a>				<script>
+					var pageSwipe = document.body;
+					delete Hammer.defaults.cssProps.userSelect;
+					delete Hammer.defaults.cssProps.userDrag;
+					delete Hammer.defaults.cssProps.contentZooming;
+					var swipeNav = new Hammer(pageSwipe,{
+	  inputClass: Hammer.SUPPORT_POINTER_EVENTS ? Hammer.PointerEventInput : Hammer.TouchInput, touchAction : 'auto'
+	});
+										swipeNav.on("swiperight",function(){
+						$('body').append('<div class="cc-fullscreen-overlay"><div class="cc-fullscreen-center"><img src="/comiccontrol/images/leftarrow.png"></div></div>');
+						$('body, html').css({'height':'100%','overflow':'hidden'});
+						$('.cc-fullscreen-overlay').fadeIn('fast', function(){
+						window.location.href = '/comic/a-giant-moth'; 
+						});
+					});
+										swipeNav.on("swipeleft",function(){
+						$('body').append('<div class="cc-fullscreen-overlay"><div class="cc-fullscreen-center"><img src="/comiccontrol/images/rightarrow.png"></div></div>');
+						$('body, html').css({'height':'100%','overflow':'hidden'});
+						$('.cc-fullscreen-overlay').fadeIn('fast', function(){
+							window.location.href = '/comic/second-hand'; 
+						});
+					});
+									</script>
+				</div></div>
+<div id="bottomnav"><nav class="cc-nav" role="navigation"><a class="cc-first" rel="first" href="/comic/start"></a><a class="cc-prev" rel="prev" href="/comic/a-giant-moth"></a><a class="cc-navaux" href="/comic/rss"></a><a class="cc-next" rel="next" href="/comic/second-hand"></a><a class="cc-last" rel="last" href="/comic/304"></a></nav></div>
+<div id="leaderboard">
+          <ins data-revive-zoneid="77" data-revive-id="c1983f6607c69b6f23252f0cbc167ac1"></ins>
+          <script async src="//b.thehiveworks.com/delivery/asyncjs.php"></script>
+</div>
+<div id="ibar"></div>
+<script src="http://www.thehiveworks.com/jumpbar.js"></script>
+    <div id="bottomleft">
+	<div id="tower">
+          <ins data-revive-zoneid="76" data-revive-id="c1983f6607c69b6f23252f0cbc167ac1"></ins>
+          <script async src="//b.thehiveworks.com/delivery/asyncjs.php"></script>	
+	</div>
+    </div>
+    <div id="bottommid">
+        <div class="bottomtext"><div class="cc-newsarea"><div class="cc-newsheader"></div><div class="cc-publishtime">Posted Nov.30.14 at 07:43 pm</div><div class="cc-newsbody"></div></div></div>
+    </div>
+    <div id="rightside"><a id="hiveworks" href="http://www.thehiveworks.com/"></a>
+    <div id="socialmedia"><a href="http://leppu.tumblr.com/"></a><a href="/rss.php"></a><a href="https://www.patreon.com/praguerace?ty=h"></a><a href="https://twitter.com/petra_nordlund"></a>
+    </div>
+    <div style="clear:both; height:50px; width:300px;"></div>
+    </div>
+</div>
+</body>
+</html>

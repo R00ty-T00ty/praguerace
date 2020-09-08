@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59274900-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Prague Race</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+	<a id="logo" href="index.php"></a>
+    <div id="menu"><a id="about" href="about.php"></a><a id="store" href="store.php"></a><a id="cast" href="cast.php"></a><a href="archive.php" id="archive"></a><a id="tipjar" href="tipjar.php"></a></div><div id="topnav"><div class="nav"><a href="/index.php?id=1" class="first" rel="start"></a><a href="/index.php?id=34" class="prev" rel="prev"></a><a href="http://www.praguerace.com/rss.php" class="rss" rel="rss"></a><a href="/index.php?id=36" class="next" rel="next"></a><a href="/index.php?id=354" class="last" rel="index"></a></div></div>
+    <div id="comicarea"><div id="comicbody"><a href="/index.php?id=36"><img title="Raivo" src="comics/../comics/1417315991-35.jpg" id="comic" border="0" /><br /></a></div></div>
+    <div id="bottomnav"><div class="nav"><a href="/index.php?id=1" class="first" rel="start"></a><a href="/index.php?id=34" class="prev" rel="prev"></a><a href="http://www.praguerace.com/rss.php" class="rss" rel="rss"></a><a href="/index.php?id=36" class="next" rel="next"></a><a href="/index.php?id=354" class="last" rel="index"></a></div></div>
+<div id="leaderboard"><iframe id='a50eb971' name='a50eb971' src='http://162.218.115.228/delivery/afr.php?n=a50eb971&amp;zoneid=77&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='728' height='90'><a href='http://162.218.115.228/delivery/ck.php?n=a44b08ab&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://162.218.115.228/delivery/avw.php?zoneid=77&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a44b08ab' border='0' alt='' /></a></iframe>
+<script type='text/javascript' src='http://162.218.115.228/delivery/ag.php'></script></div>
+<div id="ibar"></div>
+<script src="http://www.thehiveworks.com/jumpbar.js"></script>
+    <div id="bottomleft"><div id="tower"><iframe id='ad609beb' name='ad609beb' src='http://162.218.115.228/delivery/afr.php?n=ad609beb&amp;zoneid=76&amp;target=_blank&amp;cb=1429638916' frameborder='0' scrolling='no' width='160' height='600'><a href='http://162.218.115.228/delivery/ck.php?n=aff9c203&amp;cb=1429638916' target='_blank'><img src='http://162.218.115.228/delivery/avw.php?zoneid=76&amp;cb=1429638916&amp;n=aff9c203' border='0' alt='' /></a></iframe>
+<script type='text/javascript' src='http://162.218.115.228/delivery/ag.php'></script></div></div>
+    <div id="bottommid">
+        <div class="bottomtext"><div id="newsarea"><div id="newsheader"></div><div class="cc-newscontent"><div class="cc-publishtime">posted Nov.29.14 at 09:35 pm<br /></div><p>Leona doesn&#39;t care about cleaning much..</p></div><div class="text"><div class="cc-commentheader">Comments</div>    <div id="disqus_thread"></div>
+		<script type="text/javascript">
+            var disqus_shortname = 'praguerace'; 
+            var disqus_identifier = '1-35';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div> 
+</div></div>
+    </div>
+    <div id="socialbuttons">
+    	<a id="hiveworks" href="http://www.thehiveworks.com/"></a><a id="tumblr" href="http://leppu.tumblr.com/"></a><a id="rssbutton" href="rss.php"></a><a id="twitter" href="https://twitter.com/petra_nordlund"></a><div id="socialdecoration"></div>
+    </div>
+    <div style="clear:both; height:50px; width:300px;"></div>
+</div>
+</body>
+</html>

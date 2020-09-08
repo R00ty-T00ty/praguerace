@@ -1,0 +1,236 @@
+body {
+  background: #000;
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+a {
+  color: #000;
+}
+#ibar {
+  width: 780px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+#leaderboard {
+  width: 728px;
+  height: 90px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.cc-publishtime {
+  font-size: 10px;
+}
+#wrapper {
+  width: 1120px;
+  min-height: 1800px;
+  margin: 0 auto;
+  background: url("/images/bg.jpg") no-repeat;
+}
+#logo {
+  width: 704px;
+  height: 164px;
+  display: block;
+  margin: 0 auto;
+  background: url("/images/logo.jpg");
+}
+#menu {
+  width: 702px;
+  height: 73px;
+  margin: 0 auto;
+  margin-top: -7px;
+}
+#menu a {
+  float: left;
+  display: block;
+  height: 73px;
+}
+#about {
+  width: 151px;
+  background: url("/images/about.jpg");
+}
+#cast {
+  width: 116px;
+  background: url("/images/cast.jpg");
+}
+#store {
+  width: 135px;
+  background: url("/images/store.jpg");
+}
+#tipjar {
+  width: 146px;
+  background: url("/images/tipjar.jpg");
+}
+#archive {
+  width: 154px;
+  background: url("/images/archive.jpg");
+}
+#cc-comicbody {
+  text-align: center;
+  width: 800px;
+}
+#topnav {
+  width: 282px;
+  margin: 0 auto;
+  padding-top: 5px;
+}
+#topnav a,
+#topnav div,
+#topnav nav {
+  height: 38px;
+}
+.cc-nav a,
+.cc-nav div {
+  float: left;
+  display: block;
+}
+#topnav .cc-first {
+  width: 76px;
+  background: url("/images/topfirst.png");
+}
+#topnav .cc-prev {
+  width: 64px;
+  background: url("/images/topprev.png");
+}
+#topnav .cc-next {
+  width: 66px;
+  background: url("/images/topnext.png");
+}
+#topnav .cc-last {
+  width: 76px;
+  background: url("/images/toplast.png");
+}
+#topnav .cc-first-dis {
+  width: 76px;
+  background: url("/images/topfirst.png");
+}
+#topnav .cc-prev-dis {
+  width: 64px;
+  background: url("/images/topprev.png");
+}
+#topnav .cc-next-dis {
+  width: 66px;
+  background: url("/images/topnext.png");
+}
+#topnav .cc-last-dis {
+  width: 76px;
+  background: url("/images/toplast.png");
+}
+#comicarea {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 15px;
+  clear: both;
+}
+#bottomnav {
+  width: 554px;
+  margin: 0 auto;
+}
+#bottomnav a,
+#bottomnav div,
+#bottomnav nav {
+  height: 102px;
+}
+#bottomnav .cc-first {
+  width: 84px;
+  background: url("/images/bottomfirst.png");
+}
+#bottomnav .cc-prev {
+  width: 132px;
+  background: url("/images/bottomprev.png");
+}
+#bottomnav .cc-navaux {
+  width: 124px;
+  background: url("/images/bottommid.png");
+}
+#bottomnav .cc-next {
+  width: 136px;
+  background: url("/images/bottomnext.png");
+}
+#bottomnav .cc-last {
+  width: 78px;
+  background: url("/images/bottomlast.png");
+}
+#bottomnav .cc-first-dis {
+  width: 84px;
+  background: url("/images/bottomfirst.png");
+}
+#bottomnav .cc-prev-dis {
+  width: 132px;
+  background: url("/images/bottomprev.png");
+}
+#bottomnav .cc-next-dis {
+  width: 136px;
+  background: url("/images/bottomnext.png");
+}
+#bottomnav .cc-last-dis {
+  width: 78px;
+  background: url("/images/bottomlast.png");
+}
+.cc-newscontent,
+#disqus_thread,
+.cc-newsarea {
+  min-height: 100px;
+  background: url("/images/bgrepeat.png");
+  width: 524px;
+  padding: 15px;
+}
+#bottommid {
+  float: left;
+  width: 554px;
+  margin-left: 73px;
+}
+#bottomleft {
+  float: left;
+  width: 160px;
+  margin-left: 50px;
+}
+#tower {
+  width: 160px;
+  height: 600px;
+}
+#hiveworks {
+  width: 160px !important;
+  height: 346px;
+  background: url("/images/hiveworks.png");
+  display: block;
+}
+#bottomdiv {
+}
+.cc-commentlink,
+.cc-commentheader {
+  text-align: center;
+  padding-top: 30px;
+  height: 37px;
+  clear: both;
+  width: 554px;
+  background: url("/images/bottomdiv.png");
+  margin-left: -15px;
+}
+.cc-commentheader {
+  font-size: 18px;
+  font-weight: bold;
+}
+#socialmedia {
+  width: 160px;
+  height: 222px;
+  background: url("/images/social.png");
+}
+#socialmedia a {
+  width: 80px;
+  float: left;
+  height: 100px;
+}
+#rightside {
+  float: left;
+  width: 160px;
+  margin-left: 30px;
+}
+#hw-privacy {
+  text-align: center;
+  padding: 20px 0;
+}
+#hw-privacy a {
+  color: #fff;
+}
